@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+img/
+Arvato_Capstone_Example_Submission.csv
+Arvato_Capstone_Example_Submission.csv.zip
+azdias_clustered
+azdias.pickle
+best_gradient_boosting.pkl
+comparison_df
+customers_clustered
+customers_reduced
+customers.pickle
+model_km.pickle
+model_km.pkl
+Udacity_AZDIAS_052018.csv
+Udacity_CUSTOMERS_052018.csv
+Udacity_MAILOUT_052018_TEST.csv
+Udacity_MAILOUT_052018_TRAIN.csv
